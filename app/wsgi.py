@@ -16,4 +16,4 @@ $ git comit -m 'initial comit'
 $ git push heroku master
 """
 
-from main import app
+# from main import app
