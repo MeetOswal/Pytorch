@@ -11,7 +11,7 @@ MarkupSafe==1.1.1
 numpy==1.19.1
 Pillow==10.3.0
 requests==2.24.0
-torch==1.6.0+cpu
+torch==2.2.0
 torchvision==0.7.0+cpu
 urllib3==1.25.10
 Werkzeug==1.0.1
